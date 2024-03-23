@@ -1,0 +1,215 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.borderA{
+    border: 3px solid rgb(231, 39, 39);
+}
+
+body, .card-equipe{
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url("images/background-2.png");
+}
+
+.card-equipe-footer{
+background-color: rgb(26, 25, 25);
+border: 1px solid rgb(255, 255, 255);
+border-radius: 15px;
+}
+
+.menu-principal{
+    background-color: rgb(26, 25, 25);
+    border-radius: 7px;
+}
+
+.logo img{
+    border-radius: 12.75rem;
+    width: 8rem;
+    margin-left: 1%;
+    height: 8rem;
+}
+.alignement-bouton{
+    margin-left: 3%;
+}
+
+.menu-bouton-1{
+    margin-left: 2%;
+}
+@media only screen and (min-width: 768px) {
+    .menu-bouton{
+        margin-left: 2%;
+    }
+  }
+
+.text-vision{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.lien-reseaux-socaux{
+    text-decoration: none;
+}
+
+.image{
+    width: 180px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+.police-equipe-nom{
+ font-size: 15px;
+ font-weight: bold;
+}
+
+.police-equipe-fonction{
+    font-size: 10px;
+}
+
+.texte-paragraphe{
+    font-weight: bold ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 110%;
+}
+
+.lien-village{
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 1rem;
+    margin: 2%;
+}
+
+.tableau-nombres{
+    table-layout: auto;
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  #conjugaison, #pronoms, #mots-expressions{
+    display: none;
+  }
+
+.bloc-1 {
+    background-color: gray;
+    color: white;
+    border-radius: 15px;
+}
+
+.bloc-2 {
+    background-color: rgb(26, 25, 25);
+    color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.bloc-3 {
+    background-color: rgb(26, 25, 25);
+    color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.bloc-4 {
+    background-color: gray;
+    color: white;
+    border-radius: 15px;
+}
+
+.bloc-5 {
+    background-color: rgb(26, 25, 25);
+    color: white;
+    border-radius: 15px;
+}
+
+.bloc-6{
+    background-color: rgb(26, 25, 25);
+    color: white;
+   
+}
+
+.bloc-7{
+    background-color: gray;
+    color: white;
+ 
+}
+
+.bloc-footer{
+    border-radius: 15px;
+
+}
+
+.carousel{
+    width: 350px;
+    border-radius: 15px;
+  
+}
+
+.image-carousel{
+    width: 350px;
+    height: 300px;
+    border-radius: 15px;
+
+}
+
+.container-carousel{
+    justify-content: center;
+}
+
+@media (min-width: 576px) {
+    .image-carousel{
+        width: 500px;
+        height: 300px;
+        border-radius: 15px;
+    
+    }
+
+    .container-carousel{
+        justify-content: center;
+    }
+
+    .carousel{
+        width: 500px;
+        border-radius: 15px;
+      
+    }
+  }
+
+  @media (min-width: 1080px) {
+    .image-carousel{
+        width: 600px;
+        height: 300px;
+        border-radius: 15px;
+    
+    }
+
+    .container-carousel{
+        margin-left: 21%;
+    }
+
+    .carousel{
+        width: 600px;
+        border-radius: 15px;
+      
+    }
+  }
+
+  @media screen and (orientation: landscape){
+    .image-carousel{
+        width: 700px;
+        height: 300px;
+        border-radius: 15px;
+    
+    }
+
+    .carousel{
+        width: 700px;
+        border-radius: 15px;
+      
+    }
+  }
+
+  .police-bienvenue{
+    font-style:italic;
+    font-family: serif;
+
+  }
+
+
+
