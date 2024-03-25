@@ -1,11 +1,11 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-light menu-principal">
         <div class="logo">
-        <img src="images/logo.jpeg" alt="logo">
+        <img src="images/Kabafoula.jpeg" alt="logo">
         </div>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        <button class="navbar-toggler bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon bg-white"></span>
         </button>
         <div class="collapse navbar-collapse offset-3" id="navbarNav">
         <ul class="navbar-nav">

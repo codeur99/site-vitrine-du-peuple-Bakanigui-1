@@ -110,10 +110,10 @@
                         <div class="modal-dialog">
                               <div class="modal-content card-equipe">
                                     <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Mungala</h5>
+                                    <h5 class="modal-title text-dark" id="exampleModalLabel">Mungala</h5>
                                     <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="modal-body texte-paragraphe">
+                                    <div class="modal-body texte-paragraphe text-dark">
                                           Le Mungala est une société initiatique masculine interdite aux femmes, à l’exception des jumelles et des mères de jumeaux. C’est une pratique rituelle de réjouissance, de deuil ou de circoncision.
                                           Des femmes auraient jadis lors d’une partie de pêche, capturé un monstre aquatique. Prises de panique et ne sachant que faire, elles appelèrent les hommes en renfort ; Arrivés sur les lieux, les hommes s’emparèrent de la créature et la trainèrent jusqu’au village où ils en firent leur propriété (origine de la masculinité du rite).
                                           Le Mungala serait un animal fantastique et redoutable, habitant les eaux d’où il en sort à l'appel du Nga Wa Mwel (l'officiant chargé du culte) ; Les rugissements de la voix rauque du Mungala terrifiaient les femmes, les enfants et les profanes d’où leur interdiction d’assister à ces cérémonies. Les initiés annonçaient son arrivée en agitant des clochettes (Legun) et en même temps, un autre initié jouait de la corne (Atshika), pour demander aux non-initiés de se cacher à son approche.
@@ -137,10 +137,10 @@
                         <div class="modal-dialog">
                               <div class="modal-content card-equipe">
                                     <div class="modal-header">
-                                          <h5 class="modal-title" id="exampleModalLabel1">Le Ngoyi</h5>
+                                          <h5 class="modal-title text-dark" id="exampleModalLabel1">Le Ngoyi</h5>
                                           <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="modal-body texte-paragraphe">
+                                    <div class="modal-body texte-paragraphe text-dark">
                                           Le rite ngoyi au Gabon <br> 
                                           Le rite ngoyi est un rite initiatique pratiqué par les peuples Kota et Mahongwé du Gabon. Il s'agit d'une cérémonie secrète réservée aux hommes, qui marque le passage de l'enfance à l'âge adulte. 
                                          
@@ -166,10 +166,10 @@
                         <div class="modal-dialog">
                               <div class="modal-content card-equipe">
                                     <div class="modal-header">
-                                          <h5 class="modal-title" id="exampleModalLabel2"> L’onkani</h5>
+                                          <h5 class="modal-title text-dark" id="exampleModalLabel2"> L’onkani</h5>
                                           <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="modal-body texte-paragraphe">
+                                    <div class="modal-body texte-paragraphe text-dark">
                                           Contrairement à l’idée reperdue, l’Okani tel que le définissent ces peuples, ne signifie pas royauté. Le Pr Martin Alihanga le définit comme étant « une société d’initiés à la science politique c’est à dire à l’art de conduire les peuples, de gouverner la communauté villageoise, (familiale), clanique. Le terme Nkani signifie Notable » et non Roi.
 
                                           Les territoires occupés par les Mbédé (Obamba ou Ambahama) et les Téké étant divisés entre Clans, chaque partie de ces territoires divisée en villages (Ampuhu) composés de familles (Andjo), bien que regroupées dans le même village, ces familles s’identifient par des « Olebe » (corps de garde). Les chefs de ses structures sont alors appelée, (Ngampuhu) le Responsable du village, (Nkumu-a- Ndjo) le chef de famille. L’ensemble conduit et gouverné par (Ankani) les « Notables ».
@@ -201,10 +201,10 @@
                         <div class="modal-dialog">
                               <div class="modal-content card-equipe">
                                     <div class="modal-header">
-                                          <h5 class="modal-title" id="exampleModalLabel3"> Le ndjobi</h5>
+                                          <h5 class="modal-title text-dark" id="exampleModalLabel3"> Le ndjobi</h5>
                                           <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="modal-body texte-paragraphe">
+                                    <div class="modal-body texte-paragraphe text-dark">
                                           Pour les gens, le serment c’est un moyen de vérifier si quelqu’un dit la vérité. Le _Ndjobi_ amène donc les gens à dire la franche vérité.
                                           Autrefois, il servait aussi à protéger dans certains cas les confidences dans les sociétés secrètes. Un individu ne doit jamais dénoncer ce qu’il est interdit de révéler. La vérité c’est que si tu prêtes serment dans le cas de l’initiation au _Ndjobi_, il faut devenir un homme très discret et responsable de tes actes. Tu dois, à cet effet, être fidèle au serment prêté sous peine de mort comme sanction.
                                           Par exemple, si tu as juré devant le panier contenant les reliues du _Ndjobi_ que tu ne vas jamais tuer, il faut être ferme avec humour serment et lui obéir d’une manière impérative.“
@@ -232,10 +232,10 @@
                         <div class="modal-dialog">
                               <div class="modal-content card-equipe">
                                     <div class="modal-header">
-                                          <h5 class="modal-title" id="exampleModalLabel4"> Le Lissumbu</h5>
+                                          <h5 class="modal-title text-dark" id="exampleModalLabel4"> Le Lissumbu</h5>
                                           <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
                                     </div>
-                                    <div class="modal-body texte-paragraphe">
+                                    <div class="modal-body texte-paragraphe text-dark">
                                           CULTURE/LISSIMBOU       Honneur aux Femmes !
                                           Que ce soit dans la musique, ou lors des cérémonies matrimoniales, les femmes des communautés Mbahouin, Bayumbu, et Mindassa, magnifient la tradition LISSIMBOU.
                                           LISSIMBOU est un rite d’initiation réservé aux jeunes femmes, qui conduit de l’enfance à l’âge adulte, et qui a pour but entre autre, d’initier la jeune femme  à la responsabilité familiale et sociale. Comme pour la plupart des   rites traditionnels, la cérémonie publique fait suite à la première cérémonie tenue dans le secret de la brousse.  Jadis les femmes exécutaient les danses visibles à caractère mystique, par les seules initiées et les hommes circoncis.
