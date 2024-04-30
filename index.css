@@ -1,4 +1,5 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap');
 .borderA{
     border: 3px solid rgb(231, 39, 39);
 }
@@ -210,6 +211,109 @@ border-radius: 15px;
     font-family: serif;
 
   }
+
+
+
+
+
+
+
+
+.box, .box_1 {
+width: 0%;
+height: 290px;
+justify-content: center;
+background: #c0b194;
+position: sticky;
+animation: openBox 1s cubic-bezier(.74, .06, .4, .92) forwards;
+}
+
+.img_histoire, .img_histoire_1 {
+    width: 600px;
+    position: absolute;
+    left: -190px;
+    top: 50px;
+    opacity: 0;
+    animation: fadeImg 1s ease-in-out forwards;
+    animation-delay: 1s;
+}
+
+
+
+
+    .p {
+        margin-left: 25px;
+            font-family: 'Poppins';
+
+    
+    }
+
+
+
+.text_histoire, .text_histoire_1 {
+    width: 20px;
+    height: 190px;
+    background: #FFCA1B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50px;
+    animation: showDisc 1s cubic-bezier(.74, .06, .4, .92) forwards;
+}
+
+/*
+  keyframes
+ */
+
+@keyframes openBox {
+  0% {
+    width: 0px;
+    left: 15%;
+  }
+  100% {
+    width: 900px;
+    left: 15%;
+  }
+}
+
+@keyframes fadeImg {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
+@keyframes showDisc {
+  0% {
+    width: 0px;
+    left: 450px;
+  }
+  100% {
+    width: 500px;
+    left: 390px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

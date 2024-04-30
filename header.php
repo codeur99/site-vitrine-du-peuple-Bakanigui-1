@@ -22,10 +22,10 @@
             <a class="nav-link btn btn-outline-secondary text-nowrap text-white" href="association.php">Associations</a>
             </li>
             <li class="nav-item menu-bouton">
-            <a class="nav-link btn btn-outline-secondary text-nowrap text-white" href="activites.php">Activtés</a>
+            <a class="nav-link btn btn-outline-secondary text-nowrap text-white" href="activites.php">Activités</a>
             </li>
             <li class="nav-item menu-bouton">
-            <a class="nav-link btn btn-outline-secondary text-nowrap text-white" href="lexique.php">lexique</a>
+            <a class="nav-link btn btn-outline-secondary text-nowrap text-white" href="lexique.php">Lexique</a>
             </li>
             <li class="nav-item menu-bouton">
             <a class="nav-link btn btn-outline-secondary text-nowrap text-white" href="#contact">Contact</a>
